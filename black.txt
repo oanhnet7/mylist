@@ -21,6 +21,3 @@ csdkapi-policy.adobe.com
 update.intl.miui.com
 adobedtm.com
 assets.adobedtm.com
-dantri.com.vn
-24h.com.vn
-dantri.com
